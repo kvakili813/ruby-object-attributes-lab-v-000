@@ -16,5 +16,3 @@ class Dog
     @breed = new_name
   end
 end
-
-
